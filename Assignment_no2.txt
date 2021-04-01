@@ -9,6 +9,8 @@ ASSIGNMENT TO BE COMPLETED ON APRIL 7 2021 (GROUP PROJECT)
 
 3. Now that we have Person entity, our system requires us to add a new entity "Bank". So that means to say a Person can have multiple different banks.
 
+4. Create api to insert Bank record into database
+
 1 Person  has * Bank 
 
 Maria has PNB account
