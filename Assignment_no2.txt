@@ -11,6 +11,10 @@ ASSIGNMENT TO BE COMPLETED ON APRIL 7 2021 (GROUP PROJECT)
 
 4. Create api to insert Bank record into database
 
+5. Generate a JavaDoc for all java classes
+
+6. Configure Swagger-UI for your REST API
+
 1 Person  has * Bank 
 
 Maria has PNB account
