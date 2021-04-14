@@ -39,3 +39,13 @@ accountName
 personId (relates to Person)
 bankAddress
 
+
+
+
+
+==========================================
+# GROUPS
+   * Group1: {Steph, Mike}
+	 * Group2: {Keith, Rommel}
+	 * Group3: {Roche, Mark}
+	 * Group4: {Joseph, Jester}
